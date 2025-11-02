@@ -1,0 +1,24 @@
+[
+  {
+    "firstName": "Ibrahem",
+    "lastName": "Amar",
+    "Email": "Abrahem.Amar@e.braude.ac.il",
+    "Courses": [
+      "Web",
+      "Cloud",
+      "AI"
+    ],
+    "URL": "https://github.com/IbrahemAmar/Introduction-to-Cloud-Computing-"
+  },
+  {
+    "firstName": "Qosay",
+    "lastName": "Barmki",
+    "Email": "Qosay@e.braude.ac.il",
+    "Courses": [
+      "Web",
+      "Cloud",
+      "AI"
+    ],
+    "URL": "https://grow.google/intl/il/"
+  }
+]
